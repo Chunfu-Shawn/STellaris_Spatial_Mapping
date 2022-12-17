@@ -7,6 +7,7 @@ URL of STellaris: https://spatial.rhesusbase.com/
 
 STellaris also provide an interface to help researchers explore molecular landscape of spatial map in all curated ST datasets, which were processed using a centralized ST workflow. Moreover, we also provide researchers with a gene query interface to access tissue-specific expression profile of genes from the perspective of spatial structure, which was based on deep integration on top of our compiled ST datasets, such as tissue-specific spatially variable genes.
 
+<img src="./figure1.png"/>
 We hope that STellaris will expand our understanding of scRNA-seq at spatial context, especially the spatially resolved cell-cell communication.
 
 This tool is developed and maintained by Xiangshang Li, Chunfu Xiao and Juntian Qi of Chuan-yun Li’s lab, Peking University.
